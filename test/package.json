@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "viex.node.middleware.token": "^1.0.3"
+    "viex.node.middleware.token": "^1.0.5"
   }
 }
